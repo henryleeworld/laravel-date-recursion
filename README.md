@@ -1,4 +1,4 @@
-# Laravel 10 遞迴日期
+# Laravel 11 遞迴日期
 
 引入 tplaner 的 when 套件來擴增遞迴日期，取得多組日期區間內的所有日期。
 
@@ -22,5 +22,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/uL2zq3r.png)
+![](https://i.imgur.com/ShUx2Wk.png)
 > 顯示連續五個星期日的日期
